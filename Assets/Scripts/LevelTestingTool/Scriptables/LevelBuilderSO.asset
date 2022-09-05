@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 515f955b07afe3940a4075733965b35e, type: 3}
+  m_Name: LevelBuilderSO
+  m_EditorClassIdentifier: 
+  wallObject: {fileID: 5962386166002086939, guid: 1fa39100961553b48ae8e7f3a1a49df7, type: 3}
+  floorObject: {fileID: 4586148987912509901, guid: f23df66bc5ab3a54ba9e6c8d432b3527, type: 3}
+  keyObject: {fileID: 6899583342294884957, guid: c74307776a5780b419fe68ea851515b4, type: 3}
+  doorObject: {fileID: 3513744908658383343, guid: 2a33f46e1a593c14480cdb1fcaccaffa, type: 3}
+  startingObject: {fileID: 8893118152635013482, guid: 076ffa8f1f4811945b660b1f89dff150, type: 3}
+  endingObject: {fileID: 7440754833869143989, guid: c66748c39453bcc4cba14414cf100472, type: 3}
+  placementDirection: 0
+  placementType: 4
